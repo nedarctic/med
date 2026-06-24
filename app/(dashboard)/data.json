@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "header": "New patient intake",
+    "type": "Patients",
+    "status": "Done",
+    "target": "24",
+    "limit": "18",
+    "reviewer": "Dr. Amina Hassan"
+  },
+  {
+    "id": 2,
+    "header": "Appointment scheduling",
+    "type": "Appointments",
+    "status": "Done",
+    "target": "31",
+    "limit": "21",
+    "reviewer": "Sara Nwosu"
+  },
+  {
+    "id": 3,
+    "header": "Consultation notes review",
+    "type": "Consultations",
+    "status": "In Process",
+    "target": "14",
+    "limit": "16",
+    "reviewer": "Dr. Daniel Brooks"
+  },
+  {
+    "id": 4,
+    "header": "Lab results upload",
+    "type": "Consultations",
+    "status": "Done",
+    "target": "19",
+    "limit": "20",
+    "reviewer": "Maya Chen"
+  },
+  {
+    "id": 5,
+    "header": "Invoice generation",
+    "type": "Billing",
+    "status": "Done",
+    "target": "27",
+    "limit": "24",
+    "reviewer": "Lina Ortiz"
+  },
+  {
+    "id": 6,
+    "header": "Insurance claim submission",
+    "type": "Billing",
+    "status": "In Process",
+    "target": "13",
+    "limit": "17",
+    "reviewer": "Ayo Okafor"
+  },
+  {
+    "id": 7,
+    "header": "Vaccination follow-up",
+    "type": "Patients",
+    "status": "Done",
+    "target": "22",
+    "limit": "19",
+    "reviewer": "Dr. Priya Singh"
+  },
+  {
+    "id": 8,
+    "header": "Emergency visit triage",
+    "type": "Appointments",
+    "status": "In Process",
+    "target": "12",
+    "limit": "15",
+    "reviewer": "Noah Alvarez"
+  },
+  {
+    "id": 9,
+    "header": "Medication adherence tracking",
+    "type": "Consultations",
+    "status": "Done",
+    "target": "18",
+    "limit": "23",
+    "reviewer": "Dr. Elena Cruz"
+  },
+  {
+    "id": 10,
+    "header": "Outstanding balances review",
+    "type": "Billing",
+    "status": "Done",
+    "target": "16",
+    "limit": "22",
+    "reviewer": "Marcus Bell"
+  },
+  {
+    "id": 11,
+    "header": "Weekly patient census report",
+    "type": "Reports",
+    "status": "Done",
+    "target": "29",
+    "limit": "26",
+    "reviewer": "Rina Patel"
+  },
+  {
+    "id": 12,
+    "header": "Appointment no-show analysis",
+    "type": "Reports",
+    "status": "In Process",
+    "target": "11",
+    "limit": "14",
+    "reviewer": "Jules Carter"
+  },
+  {
+    "id": 13,
+    "header": "Chronic care check-in",
+    "type": "Patients",
+    "status": "Done",
+    "target": "20",
+    "limit": "17",
+    "reviewer": "Dr. Sofia Nguyen"
+  },
+  {
+    "id": 14,
+    "header": "Post-op recovery follow-up",
+    "type": "Appointments",
+    "status": "Done",
+    "target": "15",
+    "limit": "13",
+    "reviewer": "Thomas Reed"
+  },
+  {
+    "id": 15,
+    "header": "Referral coordination",
+    "type": "Consultations",
+    "status": "In Process",
+    "target": "17",
+    "limit": "19",
+    "reviewer": "Dr. Michael Tan"
+  },
+  {
+    "id": 16,
+    "header": "Payment plan approvals",
+    "type": "Billing",
+    "status": "Done",
+    "target": "21",
+    "limit": "18",
+    "reviewer": "Hannah Kim"
+  },
+  {
+    "id": 17,
+    "header": "Monthly revenue summary",
+    "type": "Reports",
+    "status": "Done",
+    "target": "32",
+    "limit": "28",
+    "reviewer": "Owen Brooks"
+  },
+  {
+    "id": 18,
+    "header": "Treatment plan updates",
+    "type": "Patients",
+    "status": "In Process",
+    "target": "10",
+    "limit": "12",
+    "reviewer": "Dr. Leila Haddad"
+  },
+  {
+    "id": 19,
+    "header": "Wellness screening slots",
+    "type": "Appointments",
+    "status": "Done",
+    "target": "25",
+    "limit": "20",
+    "reviewer": "Grace Thompson"
+  },
+  {
+    "id": 20,
+    "header": "Prescription review queue",
+    "type": "Consultations",
+    "status": "Done",
+    "target": "23",
+    "limit": "21",
+    "reviewer": "Dr. Fadi Rahman"
+  },
+  {
+    "id": 21,
+    "header": "Insurance eligibility checks",
+    "type": "Billing",
+    "status": "In Process",
+    "target": "9",
+    "limit": "11",
+    "reviewer": "Beatrice Lewis"
+  },
+  {
+    "id": 22,
+    "header": "Patient satisfaction dashboard",
+    "type": "Reports",
+    "status": "Done",
+    "target": "28",
+    "limit": "24",
+    "reviewer": "Mina Solis"
+  },
+  {
+    "id": 23,
+    "header": "Routine checkup prep",
+    "type": "Patients",
+    "status": "Done",
+    "target": "26",
+    "limit": "23",
+    "reviewer": "Dr. Jonah Price"
+  },
+  {
+    "id": 24,
+    "header": "Care team handoff log",
+    "type": "Consultations",
+    "status": "In Process",
+    "target": "8",
+    "limit": "10",
+    "reviewer": "Dr. Nina Alvarez"
+  }
+]
